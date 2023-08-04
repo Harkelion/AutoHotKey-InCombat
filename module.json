@@ -1,0 +1,16 @@
+{
+  "disableAutoUpdate": false,
+  "name": "AHK-controller",
+  "author": "<p>  </p><font color='#FDD017'> Hark </font>",
+  "description": "",
+  "version": "1.0",
+  "options": {
+    "niceName": "AHK-controller",
+    "reloadable": true
+  },
+  "dependencies": {
+    "library": "https://raw.githubusercontent.com/Kaseaa/library/master/module.json"
+  },
+  "servers": [""],
+  "supportUrl": ""
+}
